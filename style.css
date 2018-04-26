@@ -32,3 +32,8 @@ body {
 p {
     color: white;
 }
+
+img {
+    width: 50vw;
+    height: auto;
+}
