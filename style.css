@@ -45,3 +45,16 @@ img {
     width: 50vw;
     height: auto;
 }
+
+#ide .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+#ide .column {
+    flex-grow: 2;
+    flex-basis: 300px;
+    padding-right: 10vw
+}
